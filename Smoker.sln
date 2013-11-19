@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smoker", "Smoker\Smoker.csproj", "{DCB43FBB-3EC0-451E-9289-250B328F8958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smoker.Tests", "Smoker.Tests\Smoker.Tests.csproj", "{470A9434-2E86-4F57-B37C-11BA02520296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB43FBB-3EC0-451E-9289-250B328F8958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB43FBB-3EC0-451E-9289-250B328F8958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB43FBB-3EC0-451E-9289-250B328F8958}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DCB43FBB-3EC0-451E-9289-250B328F8958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB43FBB-3EC0-451E-9289-250B328F8958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB43FBB-3EC0-451E-9289-250B328F8958}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{470A9434-2E86-4F57-B37C-11BA02520296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470A9434-2E86-4F57-B37C-11BA02520296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470A9434-2E86-4F57-B37C-11BA02520296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470A9434-2E86-4F57-B37C-11BA02520296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
